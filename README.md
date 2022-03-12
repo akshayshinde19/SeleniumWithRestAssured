@@ -1,5 +1,5 @@
 # SeleniumAndRestAssuredWithCucumber
-This is a project to demonstrate how to Verify Git repo names and description from UI with Git repo names and description from API
+This is a project to demonstrate a TC- how to Verify Git repo names and description from UI against Git repo names and description from API
 
 
 
